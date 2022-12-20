@@ -20,6 +20,8 @@ Crazy kingdom:
   
 Crypto hack:
 
+  Message changer: makes the message customizable (it is set to something but you can change it by messing with code)
+
   Auto guess password: automatically guesses correct password during a hack
   
   Set crypto: sets crpyto amount
@@ -60,6 +62,8 @@ Flappy blook (waiting game):
   
 Game (global):
 
+  Kinda dark mode: puts the background of blooket to dark
+  
   Bot game: allows you to flood a game with bots
   
   Bypass random nicknames: allows you to join a game with a chosen name if it is set to random nicknames only
