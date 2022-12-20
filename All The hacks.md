@@ -1,6 +1,6 @@
 Blooket rush
-  Set blooks: Sets Blook amount
-  Set defense: Sets Defense level
+Set blooks: Sets Blook amount
+Set defense: Sets Defense level
   
 Cafe:
   Infite food stock: gives infinite amounts of whatever food you have unlocked
