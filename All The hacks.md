@@ -32,6 +32,8 @@ Deceptive dinos:
   
   set fossils: sets amount of fossils
   
+  Catch all cheaters: when you answer a question it will instantly investigate and catch any cheater
+  
 Factory:
 
   Add maxed mega bots: add as many max mega bots as you want
