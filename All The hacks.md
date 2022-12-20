@@ -1,4 +1,6 @@
-Blooket rush
+THIS IS AN EXPLANATION FOR EVERY HACK IN THIS GIT
+
+Blook rush:
 
 Set blooks: Sets Blook amount
 
